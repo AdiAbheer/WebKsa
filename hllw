@@ -1,0 +1,149 @@
+{
+  "repository": {
+    "name": "employee-database",
+    "description": "A repository containing employee data for a company",
+    "created_at": "2024-12-03",
+    "updated_at": "2024-12-03",
+    "owner": {
+      "name": "John Doe",
+      "email": "owner@example.com"
+    }
+  },
+  "employees": [
+    {
+      "employee_id": "EMP001",
+      "name": "Alice Johnson",
+      "email": "alice.johnson@example.com",
+      "phone": "+1234567890",
+      "address": "123 Elm Street, Springfield",
+      "department": "Finance",
+      "position": "Manager"
+    },
+    {
+      "employee_id": "EMP002",
+      "name": "Bob Smith",
+      "email": "bob.smith@example.com",
+      "phone": "+1234567891",
+      "address": "456 Maple Avenue, Springfield",
+      "department": "IT",
+      "position": "Software Engineer"
+    },
+    {
+      "employee_id": "EMP003",
+      "name": "Charlie Brown",
+      "email": "charlie.brown@example.com",
+      "phone": "+1234567892",
+      "address": "789 Oak Lane, Springfield",
+      "department": "HR",
+      "position": "Recruiter"
+    },
+    {
+      "employee_id": "EMP004",
+      "name": "Diana Prince",
+      "email": "diana.prince@example.com",
+      "phone": "+1234567893",
+      "address": "321 Birch Drive, Springfield",
+      "department": "Marketing",
+      "position": "Brand Manager"
+    },
+    {
+      "employee_id": "EMP005",
+      "name": "Evan Wright",
+      "email": "evan.wright@example.com",
+      "phone": "+1234567894",
+      "address": "654 Pine Court, Springfield",
+      "department": "Finance",
+      "position": "Analyst"
+    },
+    {
+      "employee_id": "EMP006",
+      "name": "Fiona Clarke",
+      "email": "fiona.clarke@example.com",
+      "phone": "+1234567895",
+      "address": "987 Cedar Way, Springfield",
+      "department": "Legal",
+      "position": "Legal Advisor"
+    },
+    {
+      "employee_id": "EMP007",
+      "name": "George Adams",
+      "email": "george.adams@example.com",
+      "phone": "+1234567896",
+      "address": "111 Walnut Blvd, Springfield",
+      "department": "IT",
+      "position": "System Administrator"
+    },
+    {
+      "employee_id": "EMP008",
+      "name": "Hannah Davis",
+      "email": "hannah.davis@example.com",
+      "phone": "+1234567897",
+      "address": "222 Spruce Street, Springfield",
+      "department": "R&D",
+      "position": "Research Scientist"
+    },
+    {
+      "employee_id": "EMP009",
+      "name": "Ian Green",
+      "email": "ian.green@example.com",
+      "phone": "+1234567898",
+      "address": "333 Willow Terrace, Springfield",
+      "department": "Operations",
+      "position": "Operations Manager"
+    },
+    {
+      "employee_id": "EMP010",
+      "name": "Julia White",
+      "email": "julia.white@example.com",
+      "phone": "+1234567899",
+      "address": "444 Ash Boulevard, Springfield",
+      "department": "Sales",
+      "position": "Sales Executive"
+    },
+    {
+      "employee_id": "EMP011",
+      "name": "Kevin Black",
+      "email": "kevin.black@example.com",
+      "phone": "+1234567810",
+      "address": "555 Fir Drive, Springfield",
+      "department": "IT",
+      "position": "Network Engineer"
+    },
+    {
+      "employee_id": "EMP012",
+      "name": "Laura Grey",
+      "email": "laura.grey@example.com",
+      "phone": "+1234567811",
+      "address": "666 Cypress Road, Springfield",
+      "department": "Admin",
+      "position": "Administrative Assistant"
+    },
+    {
+      "employee_id": "EMP013",
+      "name": "Michael Scott",
+      "email": "michael.scott@example.com",
+      "phone": "+1234567812",
+      "address": "777 Redwood Plaza, Springfield",
+      "department": "Sales",
+      "position": "Regional Manager"
+    },
+    {
+      "employee_id": "EMP014",
+      "name": "Nina Lopez",
+      "email": "nina.lopez@example.com",
+      "phone": "+1234567813",
+      "address": "888 Chestnut Grove, Springfield",
+      "department": "R&D",
+      "position": "Innovation Specialist"
+    },
+    {
+      "employee_id": "EMP015",
+      "name": "Oscar Diaz",
+      "email": "oscar.diaz@example.com",
+      "phone": "+1234567814",
+      "address": "999 Magnolia Park, Springfield",
+      "department": "Operations",
+      "position": "Logistics Coordinator"
+    }
+  ]
+}
